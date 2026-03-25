@@ -11,8 +11,8 @@ int main()
 
 Se hace un `int main() {return 0;}` porque C++ es un lenguaje de **bajo** nivel, y el 0 le indica al sistema operativo que este es el fin del programa.
 
-[[funciones|funciones]]
+[[/Estructuras-de-Datos/Unidad---Fundamentos-de-C++/Notacion/funciones|funciones]]
 
 [[listas|listas]]
 
-[[POO|OOP]]
+[[OOP.md|POO]]

@@ -39,7 +39,7 @@ Viernes 18:00 - 19:30
 
 [[teoria-de-conjuntos | Teoria de Conjuntos]]
 
-[[funciones | Funciones]]
+[[tipos-de-funciones | Funciones]]
 
 [[fundamentos-de-logica | Fundamentos de Logica]]
 
