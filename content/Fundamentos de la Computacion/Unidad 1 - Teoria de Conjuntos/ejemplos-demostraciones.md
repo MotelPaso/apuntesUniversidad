@@ -2,7 +2,7 @@
 ### Resolución:
 Como es una implicancia doble, tenemos que probar que ambas partes implican a la otra.
 $$A\subseteq B \implies A\cap B = A $$
-Si $A \subseteq B$, entonces $A\cap B = A$
+Derecha a izquierda: Si $A \subseteq B$, entonces $A\cap B = A$
 Como es una igualdad, tenemos que probar que ambas partes funcionan:
 1. $A \cap B \subseteq A$
 $$
@@ -18,7 +18,8 @@ $$
 &\text{Como } A \subseteq B \text{, entonces } x\in B
 \end{aligned}
 $$
-Si $A \cap B = A$, entonces $A\subseteq B$
+
+Izquierda a derecha: Si $A \cap B = A$, entonces $A\subseteq B$
 $$
 \begin{aligned}
 x \in A\\
