@@ -40,7 +40,6 @@ configuration:
         tertiary: "#8ec07c"
         highlight: rgba(60, 56, 54, 0.15)
         textHighlight: "#d7992188"
-
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
