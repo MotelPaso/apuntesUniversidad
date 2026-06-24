@@ -105,7 +105,7 @@ plugins:
   - source: github:quartz-community/explicit-publish
     enabled: false
   - source: github:quartz-community/alias-redirects
-    enabled: true
+    enabled: false
   - source: github:quartz-community/content-index
     enabled: true
     options:
